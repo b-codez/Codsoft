@@ -378,16 +378,16 @@ h5 {
     background: rgb(68, 0, 255);
 }
 .skills-content .right .html::before{
-    width: 90%;
-}
-.skills-content .right .css::before{
-    width: 60%;
-}
-.skills-content .right .js::before{
     width: 80%;
 }
+.skills-content .right .css::before{
+    width: 70%;
+}
+.skills-content .right .js::before{
+    width: 60%;
+}
 .skills-content .right .php::before{
-    width: 50%;
+    width: 85%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
