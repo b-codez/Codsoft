@@ -383,14 +383,11 @@ h5 {
 .skills-content .right .css::before{
     width: 70%;
 }
-.skills-content .right .js::before{
+.skills-content .right .java::before{
     width: 60%;
 }
-.skills-content .right .php::before{
+.skills-content .right .c::before{
     width: 85%;
-}
-.skills-content .right .mysql::before{
-    width: 70%;
 }
 
 
